@@ -4,9 +4,8 @@ __pycache__
 .pytest_cache
 .venv
 *.egg-info
- 
 # Layers
-./lambda_layer/google-api-python-client
+./lambda_layers/google-api-python-client
 
 # CDK asset staging directory
 .cdk.staging
