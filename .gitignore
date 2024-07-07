@@ -1,0 +1,14 @@
+*.swp
+package-lock.json
+__pycache__
+.pytest_cache
+.venv
+*.egg-info
+ 
+# Layers
+./lambda_layer/google-api-python-client
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+
