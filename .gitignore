@@ -5,7 +5,7 @@ __pycache__
 .venv
 *.egg-info
 # Layers
-./lambda_layers/google-api-python-client
+lambda_layers/*
 
 # CDK asset staging directory
 .cdk.staging
